@@ -5,11 +5,11 @@ import (
 	"os"
 	"time"
 
-	"github.com/arl/go-detour/detour"
-	"github.com/arl/go-detour/recast"
-	"github.com/arl/go-detour/sample"
 	"github.com/arl/gogeo/f32/d3"
 	"github.com/arl/math32"
+	"github.com/blownengine/go-detour/detour"
+	"github.com/blownengine/go-detour/recast"
+	"github.com/blownengine/go-detour/sample"
 )
 
 // TileMesh allows building multi-tile navigation meshes.

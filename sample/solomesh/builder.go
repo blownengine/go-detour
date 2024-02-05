@@ -3,10 +3,10 @@ package solomesh
 import (
 	"io"
 
-	"github.com/arl/go-detour/detour"
-	"github.com/arl/go-detour/recast"
-	"github.com/arl/go-detour/sample"
 	"github.com/arl/math32"
+	"github.com/blownengine/go-detour/detour"
+	"github.com/blownengine/go-detour/recast"
+	"github.com/blownengine/go-detour/sample"
 )
 
 // SoloMesh allows building of single tile navigation meshes.

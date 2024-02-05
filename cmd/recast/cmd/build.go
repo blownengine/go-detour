@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/arl/go-detour/detour"
-	"github.com/arl/go-detour/recast"
-	"github.com/arl/go-detour/sample/solomesh"
-	"github.com/arl/go-detour/sample/tilemesh"
+	"github.com/blownengine/go-detour/detour"
+	"github.com/blownengine/go-detour/recast"
+	"github.com/blownengine/go-detour/sample/solomesh"
+	"github.com/blownengine/go-detour/sample/tilemesh"
 	"github.com/spf13/cobra"
 )
 

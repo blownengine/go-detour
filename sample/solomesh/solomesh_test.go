@@ -7,10 +7,10 @@ import (
 	"os"
 	"testing"
 
-	"github.com/arl/go-detour/detour"
-	"github.com/arl/go-detour/recast"
 	"github.com/arl/gogeo/f32/d3"
 	"github.com/arl/math32"
+	"github.com/blownengine/go-detour/detour"
+	"github.com/blownengine/go-detour/recast"
 )
 
 func check(t *testing.T, err error) {
